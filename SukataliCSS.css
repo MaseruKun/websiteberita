@@ -1,0 +1,37 @@
+body {
+    background-color: lawngreen;
+}
+img {
+    position: relative;
+    justify-content: left;
+    width: 50%;
+    height: auto;
+}
+.top-left {
+    position: absolute;
+    top: 5px;
+    left: 650px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+h1 {
+    position: absolute;
+    top: 30px;
+    left: 650px;
+    font-family:sans-serif;
+    font-size: small;
+}
+.Tengah-Kanan {
+    position: absolute;
+    top: 520px;
+    left: 650px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+h2 {
+    position: absolute;
+    top: 575px;
+    left: 650px;
+    font-family:sans-serif;
+    font-size: small;
+}
