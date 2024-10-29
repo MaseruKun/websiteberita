@@ -14,24 +14,29 @@ img {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: x-large;
 }
-h1 {
+/* h1 {
     position: absolute;
     top: 30px;
-    left: 650px;
+    left: 55%;
     font-family:sans-serif;
     font-size: small;
-}
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+} */
 .Tengah-Kanan {
-    position: absolute;
-    top: 520px;
-    left: 650px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: auto;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: x-large;
-}
-h2 {
+/* h2 {
     position: absolute;
     top: 575px;
-    left: 650px;
+    left: 55%;
     font-family:sans-serif;
     font-size: small;
-}
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100px;
+} */
