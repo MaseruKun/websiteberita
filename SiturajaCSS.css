@@ -8,30 +8,36 @@ img {
     height: auto;
 }
 .top-left {
-    position: absolute;
-    top: 5px;
-    left: 650px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: auto;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: x-large;
+    
 }
-h1 {
+/* h1 {
     position: absolute;
-    top: 65px;
-    left: 650px;
+    top: 30px;
+    left: 55%;
     font-family:sans-serif;
     font-size: small;
-}
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+} */
 .Tengah-Kanan {
-    position: absolute;
-    top: 400px;
-    left: 650px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: auto;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: x-large;
-}
-h2 {
+/* h2 {
     position: absolute;
-    top: 460px;
-    left: 650px;
+    top: 575px;
+    left: 55%;
     font-family:sans-serif;
     font-size: small;
-}
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 100px;
+} */
